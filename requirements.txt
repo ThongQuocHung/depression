@@ -6,3 +6,4 @@ category-encoders==2.6.1
 openpyxl==3.1.2
 Werkzeug==2.3.7 
 gunicorn==21.2.0
+gdown==4.7.1
